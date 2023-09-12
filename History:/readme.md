@@ -1,0 +1,2 @@
+- [CHEVY S10 - Everything You Need to Know | Up to Speed](https://youtu.be/JEjBxQg2AOg)
+- [Here’s how the Chevy S10 pickup and Blazer were the first American built compact trucks](https://youtu.be/7Zt9xTLalkk)
