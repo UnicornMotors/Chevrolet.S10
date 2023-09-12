@@ -1,6 +1,9 @@
 # Chevrolet.S10
 # Inspire.
 ## Restoration:
+### playlist:
+[1987 S10 Restoration](https://www.youtube.com/playlist?list=PL-WytJKdF-jAs1emu16RLk3UMRPprSkkO)
+
 - [1987 Chevy S10, "The Duke", Budget Commuter Rebuild](https://youtu.be/hBa-fE_WeY0)
 - [1987 Chevy S10, "The Duke", Budget Commuter Rebuild, Part 2, tear down](https://youtu.be/0gGm98hN2W0)
 - [1987 Chevy S10, "The Duke", Budget Commuter Rebuild, Part 3, Chassis Tear Down](https://youtu.be/wB9-2CAxYAU)
@@ -11,7 +14,11 @@
 - [1987 Chevy S10, "The Duke", Budget Commuter Rebuild, Part 8 Brake Caliper rebuild](https://youtu.be/J2in_y-oFjM)
 - [1987 Chevy S10, "The Duke", Budget Commuter Rebuild, Part 9, front suspension removal](https://youtu.be/K2ydvsdrx48)
 - [1987 Chevy S10, "The Duke", Budget Commuter Rebuild, Part 10, Frame painting](https://youtu.be/3JpW2XHHzsM)
-- ['87 S10, "The Duke", Part 38, Cab corner replacement, in depth](https://youtu.be/C9nUB_MIXTc)
 - ['87 Chevy S10, "The Duke", Completion of fuel lines.](https://youtu.be/PBGBci9jAZo)
 - ['87 Chevy S10, "The Duke", Budget Rebuild, Part 11, control arm bushing and ball-joint removal](https://youtu.be/KgbACY8rd6s)
 - ['87 Chevy S10, "The Duke", Budget Rebuild, Part 12, Control arm assembly](https://youtu.be/YK9iKtWuNVk)
+- ['87 Chevy S10, "The Duke", Budget Rebuild, Part 13, Junkyard trip and Front Suspension Assembly](https://youtu.be/lZzCt2BrDo8)
+- ['87 Chevy S10, "The Duke", Budget Rebuild, Part 14, Front brake assembly](https://youtu.be/xGSf6u8QVgQ)
+...
+
+- ['87 S10, "The Duke", Part 38, Cab corner replacement, in depth](https://youtu.be/C9nUB_MIXTc)
